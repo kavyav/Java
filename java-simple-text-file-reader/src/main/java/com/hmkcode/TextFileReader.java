@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class TextFileReader {
 fdfddfdfffddf
-	private BufferedReader buffer;
+	private BufferedReadffffffder buffer;
 	private String currentLine = "";sde
 	public TextFileReader(){ 
 		
