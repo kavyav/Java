@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class TextFileReader {
+public class TextFileReader {trrrrrrrrrrrrrrrrrr
 fdfddfdfffddf
 	private BufferedReadffffffder buffer;
 	private String currentLine = "";sde
